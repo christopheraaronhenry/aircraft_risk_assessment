@@ -63,7 +63,7 @@ These analyses suggest three main recommendations for the company as it enters t
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./aviation_safety.ipynb) or our [presentation](./aviation_safety_presentation.pdf) or our [Tableau dashboard](https://public.tableau.com/app/profile/christopher.henry7294/viz/aircraft_risk_assessment_workbook/Aviation_Safety_Dashboard?publish=yes).
+Please review our full analysis in [our Jupyter Notebook](./aircraft_risk_assessment.ipynb) or our [presentation](./presentation.pdf) or our [Tableau dashboard](https://public.tableau.com/app/profile/christopher.henry7294/viz/aircraft_risk_assessment_workbook/Aviation_Safety_Dashboard?publish=yes).
 
 For any additional questions, please contact **Christopher Henry (chenrynyc@gmail.com)**
 
@@ -74,8 +74,8 @@ Describe the structure of your repository and its contents, for example:
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
 ├── LICENSE.md                          <- License file 
-├── aviation_safety.ipynb               <- Narrative documentation of analysis in Jupyter notebook
-├── aviation_safety_presentation.pdf    <- PDF version of project presentation
+├── aircraft_risk_assessment.ipynb      <- Narrative documentation of analysis in Jupyter notebook
+├── presentation.pdf                    <- PDF version of project presentation
 ├── data                                <- Both sourced externally and generated from code
 └── images                              <- Both sourced externally and generated from code
 ```
