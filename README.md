@@ -65,7 +65,7 @@ These analyses suggest three main recommendations for the company as it enters t
 
 Please review our full analysis in [our Jupyter Notebook](./aircraft_risk_assessment.ipynb) or our [presentation](./presentation.pdf) or our [Tableau dashboard](https://public.tableau.com/app/profile/christopher.henry7294/viz/aircraft_risk_assessment_workbook/Aviation_Safety_Dashboard?publish=yes).
 
-For any additional questions, please contact **Christopher Henry (chenrynyc@gmail.com)**
+For any additional questions, please contact.
 
 ## Repository Structure
 
